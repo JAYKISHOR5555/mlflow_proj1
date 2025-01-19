@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ebf72cc33e79408e8910efed0aab64e6/artifacts
+end_time: 1737292533521
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebf72cc33e79408e8910efed0aab64e6
+run_name: languid-hog-94
+run_uuid: ebf72cc33e79408e8910efed0aab64e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737292533257
+status: 3
+tags: []
+user_id: jayki
