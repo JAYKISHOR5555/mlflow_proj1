@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/834167542667938519/4e960f2910eb4401b36d4035da1f19c4/artifacts
+end_time: 1737343355682
+entry_point_name: ''
+experiment_id: '834167542667938519'
+lifecycle_stage: active
+run_id: 4e960f2910eb4401b36d4035da1f19c4
+run_name: able-trout-989
+run_uuid: 4e960f2910eb4401b36d4035da1f19c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737343342865
+status: 3
+tags: []
+user_id: jayki

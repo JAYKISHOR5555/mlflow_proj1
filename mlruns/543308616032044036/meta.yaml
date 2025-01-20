@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/543308616032044036
+creation_time: 1737293377226
+experiment_id: '543308616032044036'
+last_update_time: 1737293386772
+lifecycle_stage: active
+name: mlflow exp2
+tags: {}

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/543308616032044036/cfb31215592d4c879b98860092964514/artifacts
+end_time: 1737293687921
+entry_point_name: ''
+experiment_id: '543308616032044036'
+lifecycle_stage: active
+run_id: cfb31215592d4c879b98860092964514
+run_name: polite-chimp-691
+run_uuid: cfb31215592d4c879b98860092964514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737293673229
+status: 3
+tags: []
+user_id: jayki
