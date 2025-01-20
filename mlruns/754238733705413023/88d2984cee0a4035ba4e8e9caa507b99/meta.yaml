@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayki/OneDrive/Desktop/mlops%20project/mlflow_proj1/mlruns/754238733705413023/88d2984cee0a4035ba4e8e9caa507b99/artifacts
+end_time: 1737344841530
+entry_point_name: ''
+experiment_id: '754238733705413023'
+lifecycle_stage: active
+run_id: 88d2984cee0a4035ba4e8e9caa507b99
+run_name: gregarious-shark-669
+run_uuid: 88d2984cee0a4035ba4e8e9caa507b99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737344841425
+status: 3
+tags: []
+user_id: jayki

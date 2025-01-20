@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayki/OneDrive/Desktop/mlops%20project/mlflow_proj1/mlruns/754238733705413023/88c4500bc165452ba32ec04a96eccaa0/artifacts
+end_time: 1737344598098
+entry_point_name: ''
+experiment_id: '754238733705413023'
+lifecycle_stage: active
+run_id: 88c4500bc165452ba32ec04a96eccaa0
+run_name: efficient-snipe-442
+run_uuid: 88c4500bc165452ba32ec04a96eccaa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737344597979
+status: 3
+tags: []
+user_id: jayki

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayki/OneDrive/Desktop/mlops%20project/mlflow_proj1/mlruns/754238733705413023/5d709d1cb6af42c2875c00faec5c88ed/artifacts
+end_time: 1737344842730
+entry_point_name: ''
+experiment_id: '754238733705413023'
+lifecycle_stage: active
+run_id: 5d709d1cb6af42c2875c00faec5c88ed
+run_name: languid-wren-596
+run_uuid: 5d709d1cb6af42c2875c00faec5c88ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737344842608
+status: 3
+tags: []
+user_id: jayki

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayki/OneDrive/Desktop/mlops%20project/mlflow_proj1/mlruns/754238733705413023/4e7c2e981cc64c04a9462f6cba71e99b/artifacts
+end_time: 1737344842594
+entry_point_name: ''
+experiment_id: '754238733705413023'
+lifecycle_stage: active
+run_id: 4e7c2e981cc64c04a9462f6cba71e99b
+run_name: defiant-cat-841
+run_uuid: 4e7c2e981cc64c04a9462f6cba71e99b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737344842469
+status: 3
+tags: []
+user_id: jayki

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayki/OneDrive/Desktop/mlops%20project/mlflow_proj1/mlruns/754238733705413023/55788c021126466c9c2b3ad4f8345786/artifacts
+end_time: 1737344599354
+entry_point_name: ''
+experiment_id: '754238733705413023'
+lifecycle_stage: active
+run_id: 55788c021126466c9c2b3ad4f8345786
+run_name: upbeat-stoat-312
+run_uuid: 55788c021126466c9c2b3ad4f8345786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737344599196
+status: 3
+tags: []
+user_id: jayki

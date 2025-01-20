@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayki/OneDrive/Desktop/mlops%20project/mlflow_proj1/mlruns/754238733705413023/796912c27e9a4e77b588559fe5e9a045/artifacts
+end_time: 1737344598394
+entry_point_name: ''
+experiment_id: '754238733705413023'
+lifecycle_stage: active
+run_id: 796912c27e9a4e77b588559fe5e9a045
+run_name: gifted-quail-416
+run_uuid: 796912c27e9a4e77b588559fe5e9a045
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737344598248
+status: 3
+tags: []
+user_id: jayki

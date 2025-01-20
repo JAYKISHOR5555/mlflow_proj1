@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayki/OneDrive/Desktop/mlops%20project/mlflow_proj1/mlruns/754238733705413023/57d312c8f1684ebb8c59793699e605d0/artifacts
+end_time: 1737344853984
+entry_point_name: ''
+experiment_id: '754238733705413023'
+lifecycle_stage: active
+run_id: 57d312c8f1684ebb8c59793699e605d0
+run_name: masked-hare-534
+run_uuid: 57d312c8f1684ebb8c59793699e605d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737344839257
+status: 3
+tags: []
+user_id: jayki

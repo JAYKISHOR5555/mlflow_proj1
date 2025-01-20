@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayki/OneDrive/Desktop/mlops%20project/mlflow_proj1/mlruns/754238733705413023/7b7045c4687f444c8dbe45474d719a1f/artifacts
+end_time: 1737344841412
+entry_point_name: ''
+experiment_id: '754238733705413023'
+lifecycle_stage: active
+run_id: 7b7045c4687f444c8dbe45474d719a1f
+run_name: crawling-mole-211
+run_uuid: 7b7045c4687f444c8dbe45474d719a1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737344841280
+status: 3
+tags: []
+user_id: jayki

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayki/OneDrive/Desktop/mlops%20project/mlflow_proj1/mlruns/754238733705413023/c8ea683e9bf741ea83cb08769d4c254b/artifacts
+end_time: 1737344841666
+entry_point_name: ''
+experiment_id: '754238733705413023'
+lifecycle_stage: active
+run_id: c8ea683e9bf741ea83cb08769d4c254b
+run_name: bemused-vole-155
+run_uuid: c8ea683e9bf741ea83cb08769d4c254b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737344841540
+status: 3
+tags: []
+user_id: jayki

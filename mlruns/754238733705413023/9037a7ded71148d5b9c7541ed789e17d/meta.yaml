@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayki/OneDrive/Desktop/mlops%20project/mlflow_proj1/mlruns/754238733705413023/9037a7ded71148d5b9c7541ed789e17d/artifacts
+end_time: 1737344841813
+entry_point_name: ''
+experiment_id: '754238733705413023'
+lifecycle_stage: active
+run_id: 9037a7ded71148d5b9c7541ed789e17d
+run_name: serious-bee-576
+run_uuid: 9037a7ded71148d5b9c7541ed789e17d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737344841682
+status: 3
+tags: []
+user_id: jayki

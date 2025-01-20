@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayki/OneDrive/Desktop/mlops%20project/mlflow_proj1/mlruns/754238733705413023/f78f8e1a2d444d33948ec237ffbcc069/artifacts
+end_time: 1737344598982
+entry_point_name: ''
+experiment_id: '754238733705413023'
+lifecycle_stage: active
+run_id: f78f8e1a2d444d33948ec237ffbcc069
+run_name: victorious-slug-254
+run_uuid: f78f8e1a2d444d33948ec237ffbcc069
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737344598823
+status: 3
+tags: []
+user_id: jayki
